@@ -1,4 +1,4 @@
-# Single tenant services using private service connect
+# Connecting Single Tenant Services Using Private Service Connect
 ![alt text](diagram.png)
 https://cloud.google.com/vpc/docs/private-service-connect-deployments
 ---
